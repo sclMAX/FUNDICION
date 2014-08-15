@@ -1,0 +1,24 @@
+{
+	"type" : "Project",
+	"time" : "1406716639",
+	"version" : "0"
+}
+{
+	"Customer" "S" "Nombre del cliente al que se refiere este proyecto." "173303d053d822190000c3cd00000000" : "",
+	"TextBlocks" "M" "Un sitio del portaherramientas para el texto" "1733036053d822190000c3cf00000000" : {
+	},
+	"ThicknessSets" "M" "Un sitio del portaherramientas para el conjunto de espesor" "1733030053d822190000c3d100000000" : {
+	},
+	"PartName" "S" "Nombre de la pieza para este proyecto." "1733029053d822190000c3d300000000" : "",
+	"ProjectHistory" "LM" "archivo proyecto." "1733620053d822190000c3d500000000" : (
+		{
+			"ClientName" "S" "Nombre producto Cliente" "17337a4053d822190000c3d700000000" : "PowerMILL",
+			"ClientVersion" "S" "Version producto cliente" "173373d053d822190000c3d900000000" : "10006",
+			"DmkCodebase" "S" "Numero del codigo base de las librerias de delcam." "17330ef053d822190000c3db00000000" : "1117241"
+		}
+	),
+	"Tolerances" "M" "Un sitio del portaherramientas para los valores de tolerancia" "17330fb053d822190000c3dd00000000" : {
+	},
+	"OrderNumber" "S" "Ordenar numeros para este proyecto." "173361a053d822190000c3df00000000" : "",
+	"Notes" "S" "Notas para este proyecto." "1733614053d822190000c3e100000000" : ""
+}

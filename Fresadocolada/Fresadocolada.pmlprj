@@ -1,0 +1,13 @@
+10 3 10006 1117241 # Entity Index (DO NOT EDIT!)
+0 0
+30 Jul 2014 07.37.19
+x0b0f012053d814db00000add00000000.pmlent pmlEntWorkplane 'Active UCS'
+x0b11229053d814db00000b1400000000.pmlent pmlEntLevel '0'
+x0d7a91f053d8158200000ff000000000.pmlent pmlEntWorkplane 'CeroPieza'
+x0d7ef19053d815c40000100900000000.pmlent pmlEntTool 'FresaD20'
+x171fdb9053d816790000296900000000.pmlent pmlEntToolpath '1'
+x172735e053d8186700005f6f00000000.pmlent pmlEntBoundary '1'
+x0724acc053d819fb00008c2700000000.pmlent pmlEntBoundary '2'
+x16fba89053d81a3e0000a9c100000000.pmlent pmlEntBoundary '3'
+x0b0eff7053d8c713000013fd00000000.pmlent pmlEntNCProgram 'FresadoColadaD20'
+x0aade2a053d814d200000abf00000000.pmlent pmlEntModel 'PiezaColada'
